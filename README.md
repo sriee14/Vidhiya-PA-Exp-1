@@ -32,7 +32,7 @@ Linear system: A × x = b  ⇒  x = A⁻¹b.
 
 Eigen decomposition: A v = λ v, where λ is an eigenvalue and v is an eigenvector.
 
-## CODING 
+## Program
 
 
 ```
@@ -70,7 +70,7 @@ print(df.info())
 ```
 
 
-## OUTPUT 
+## Output
 
 
 
@@ -117,7 +117,7 @@ memory usage: 228.0+ bytes
 
 ```
 
-## RESULT 
+## Result
 
 
 Thus, the basic operations of NumPy and Pandas were successfully performed using Python. Arithmetic operations such as addition, subtraction, multiplication, and division were carried out using NumPy arrays. A Pandas DataFrame was created to store student details, and descriptive statistics and dataset information were obtained successfully.
